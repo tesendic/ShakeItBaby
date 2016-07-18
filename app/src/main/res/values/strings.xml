@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Shake It Baby</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="shake_it">Shake it!</string>
+    <string name="title_activity_shake_it">Shake it, baby!</string>
+    <string name="title_activity_result">Well done!</string>
+    <string name="load_button">Load content</string>
+    <string name="back_button">Back</string>
+
+    <string-array name="defaults">
+        <item>Text content 1</item>
+        <item>Text content 2</item>
+        <item>Text content 3</item>
+        <item>Text content 4</item>
+        <item>Text content 5</item>
+        <item>Text content 6</item>
+        <item>Text content 7</item>
+        <item>Text content 8</item>
+        <item>Text content 9</item>
+        <item>Text content 10</item>
+    </string-array>
+</resources>
